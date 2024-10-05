@@ -1,5 +1,9 @@
 # PPO for Beginners
 
+Just a brief little sanity check of my own implementations against some reference, below is all not my work
+
+
+
 ## Introduction
 Hi! My name is Eric Yu, and I wrote this repository to help beginners get started in writing Proximal Policy Optimization (PPO) from scratch using PyTorch. My goal is to provide a code for PPO that's bare-bones (little/no fancy tricks) and extremely well documented/styled and structured. I'm especially targeting people who are tired of reading endless PPO implementations and having absolutely no idea what's going on. 
 
